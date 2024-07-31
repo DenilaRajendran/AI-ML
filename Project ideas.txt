@@ -1,0 +1,6 @@
+Plant Species Identification
+The primary goal of this machine learning project is to recognize 99 plant species better using binary leaf images and extracted properties, including shape, border, and texture. You will use various classification techniques to assess the relevance of classifiers in image classification tasks. Use the Pandas package to read and prepare the two CSV files in the dataset- train.csv and test.csv. This project will assist you in determining which Python libraries, such as sklearn, scipy, and TensorFlow, are most suited to the specific files in the dataset for creating an efficient plant species identification system.
+
+Source Code- Build an Image Classifier for Plant Species Identification
+
+https://www.projectpro.io/article/python-pandas-project-ideas/580
